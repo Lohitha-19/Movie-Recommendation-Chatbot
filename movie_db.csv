@@ -1,0 +1,271 @@
+Genre,Language,Movie,Rating
+Action,Telugu,RRR,9.2
+Action,Telugu,Baahubali,8.8
+Action,Telugu,Saaho,7
+Action,Telugu,Sye,7.5
+Action,Telugu,Akhanda,7.8
+Action,Hindi,War,7
+Action,Hindi,Shershaah,8
+Action,Hindi,Singham,7.1
+Action,Hindi,Dhoom 2,7.2
+Action,Hindi,Pathaan,7.3
+Action,Tamil,Vikram,8.3
+Action,Tamil,Kaithi,8
+Action,Tamil,Thuppakki,7.9
+Action,Tamil,Mersal,7
+Action,Tamil,Ghilli,7.8
+Action,Malayalam,Kurup,7
+Action,Malayalam,Kaduva,6.9
+Action,Malayalam,Lucifer,7.2
+Action,Malayalam,Masterpiece,6.5
+Action,Malayalam,Kayamkulam Kochunni,6.7
+Action,Kannada,KGF Chapter 1,8.2
+Action,Kannada,Vikrant Rona,7
+Action,Kannada,James,6.5
+Action,Kannada,Roberrt,6.8
+Action,Kannada,Pailwaan,6
+Action,English,John Wick,7.4
+Action,English,Mad Max: Fury Road,8.1
+Action,English,Mission: Impossible – Fallout,7.8
+Action,English,The Dark Knight,9
+Action,English,Gladiator,8.5
+Comedy,Telugu,Brochevarevarura,7.2
+Comedy,Telugu,Jathi Ratnalu,7.5
+Comedy,Telugu,Ee Nagaraniki Emaindi,7
+Comedy,Telugu,Venky,6.8
+Comedy,Telugu,Manmadhudu,7.3
+Comedy,Hindi,Hera Pheri,8.2
+Comedy,Hindi,3 Idiots,8.4
+Comedy,Hindi,Chupke Chupke,8.0 
+Comedy,Hindi,Dhamaal,7.1
+Comedy,Hindi,Welcome,7.0 
+Comedy,Tamil,Boss Engira Bhaskaran,7.4
+Comedy,Tamil,Ok Ok,6.5
+Comedy,Tamil,Kalakalappu,6.6
+Comedy,Tamil,Vasool Raja MBBS,7.2
+Comedy,Tamil,Nanban,7.9
+Comedy,Malayalam,Maheshinte Prathikaram,8.0 
+Comedy,Malayalam,Kunjiramayanam,7.3
+Comedy,Malayalam,Njan Praksshan,7.8
+Comedy,Malayalam,Aadu,6.9
+Comedy,Malayalam,Kalyanaraman,7.0 
+Comedy,Kannada,Govinda Govinda,6.7
+Comedy,Kannada,Sarkari Hi. Pra. Shaale,7.5
+Comedy,Kannada,Victory,6.6
+Comedy,Kannada,Rambo,6.3
+Comedy,Kannada,Rajkumari,6.4
+Comedy,English,The Hangover,7.7
+Comedy,English,Superbad,7.6
+Comedy,English,Step Brothers,7.5
+Comedy,English,Tropic Thunder,7.0 
+Comedy,English,The Other Guys,6.7
+Romance,Telugu,Geetha Govindam,8.1
+Romance,Telugu,Tholi Prema,7.6
+Romance,Telugu,Arya 2,7.4
+Romance,Telugu,Fidaa,7.2
+Romance,Telugu,Ye Maaya Chesave,7.5
+Romance,Hindi,Dilwale Dulhania Le Jayenge,8.1
+Romance,Hindi,Tamasha,7.5
+Romance,Hindi,Kabir Singh,7.1
+Romance,Hindi,Kal Ho Naa Ho,7.9
+Romance,Hindi,Barfi!,8.0 
+Romance,Tamil,96,8.5
+Romance,Tamil,Vinnaithaandi Varuvaayaa,8.0 
+Romance,Tamil,Raja Rani,7.8
+Romance,Tamil,Ok Kanmani,7.7
+Romance,Tamil,Minnale,7.6
+Romance,Malayalam,Kumbalangi Nights,8.6
+Romance,Malayalam,Charlie,8.1
+Romance,Malayalam,Anarkali,7.0 
+Romance,Malayalam,Ennu Ninte Moideen,8.1
+Romance,Malayalam,Premam,8.2
+Romance,Kannada,Mungaru Male,7.8
+Romance,Kannada,Dia,7.3
+Romance,Kannada,Simple Agi Ondh Love Story,7.0 
+Romance,Kannada,Love Mocktail,7.2
+Romance,Kannada,Googly,7.1
+Romance,English,The Notebook,7.8
+Romance,English,La La Land,8.0 
+Romance,English,Titanic,7.9
+Romance,English,A Walk To Remember,7.4
+Romance,English,The Fault in Our Stars,7.7
+Thriller,Telugu,Evaru,7.5
+Thriller,Telugu,Drushyam,7.7
+Thriller,Telugu,Kshanam,7.4
+Thriller,Telugu,Goodachari,7.9
+Thriller,Telugu,Agent Sai Srinivasa Athreya,7.8
+Thriller,Hindi,Talaash,7.2
+Thriller,Hindi,Badla,7.9
+Thriller,Hindi,Drishyam,8.0 
+Thriller,Hindi,Kahaani,8.1
+Thriller,Hindi,Andhadhun,8.3
+Thriller,Tamil,Ratsasan,8.0 
+Thriller,Tamil,Vikram Veda,8.2
+Thriller,Tamil,Game Over,7.4
+Thriller,Tamil,Dhuruvangal Pathinaaru,8.0 
+Thriller,Tamil,Thani Oruvan,7.9
+Thriller,Malayalam,Mumbai Police,7.5
+Thriller,Malayalam,Memories,7.3
+Thriller,Malayalam,Drishyam,8.0 
+Thriller,Malayalam,Anjaam Pathiraa,7.8
+Thriller,Malayalam,7th Day,7.1
+Thriller,Kannada,Operation Alamelamma,7.2
+Thriller,Kannada,Shuddhi,7.0 
+Thriller,Kannada,Kavaludaari,7.3
+Thriller,Kannada,RangiTaranga,7.8
+Thriller,Kannada,U Turn,7.1
+Thriller,English,Gone Girl,8.1
+Thriller,English,Se7en,8.6
+Thriller,English,Shutter Island,8.2
+Thriller,English,Prisoners,8.1
+Thriller,English,Zodiac,7.9
+Sci-Fi,Telugu,Eega,7.8
+Sci-Fi,Telugu,1: Nenokkadine,7.0 
+Sci-Fi,Telugu,Awe,7.1
+Sci-Fi,Telugu,Anthariksham 9000 KMPH,6.8
+Sci-Fi,Telugu,Robo,6.9
+Sci-Fi,Hindi,Koi... Mil Gaya,7.2
+Sci-Fi,Hindi,PK,8.1
+Sci-Fi,Hindi,Ra.One,5.5
+Sci-Fi,Hindi,Cargo,7.0 
+Sci-Fi,Hindi,Tik Tik Tik,6.9
+Sci-Fi,Tamil,Enthiram,8.0 
+Sci-Fi,Tamil,2.0 ,6.5
+Sci-Fi,Tamil,Indru Netru Naalai,7.1
+Sci-Fi,Tamil,Irumbu Thirai,7.0 
+Sci-Fi,Tamil,Tik Tik Tik,6.9
+Sci-Fi,Malayalam,Ittymaani: Made in China,7.0 
+Sci-Fi,Malayalam,Ezra,7.2
+Sci-Fi,Malayalam,C U Soon,6.7
+Sci-Fi,Malayalam,Theevandi,6.8
+Sci-Fi,Malayalam,Android Kunjappan Version 5.25,7.3
+Sci-Fi,Kannada,Pushpaka Vimana,7.0 
+Sci-Fi,Kannada,Aa Dinagalu,7.2
+Sci-Fi,Kannada,Kahi,7.1
+Sci-Fi,Kannada,Lucia,7.7
+Sci-Fi,Kannada,U Turn,7.1
+Sci-Fi,English,Arrival,7.9
+Sci-Fi,English,Blade Runner 2049,8.0 
+Sci-Fi,English,The Matrix,8.7
+Sci-Fi,English,Inception,8.8
+Sci-Fi,English,Interstellar,8.6
+Horror,Telugu,Raju Gari Gadhi,6.5
+Horror,Telugu,Demonte Colony,6.8
+Horror,Telugu,Ekkadiki Pothavu Chinnavada,6.7
+Horror,Telugu,Anando Brahma,6.6
+Horror,Telugu,Arundhati,7.0 
+Horror,Hindi,13B,6.7
+Horror,Hindi,Pari,6.1
+Horror,Hindi,Raaz,5.9
+Horror,Hindi,Tumbbad,8.0 
+Horror,Hindi,Stree,7.6
+Horror,Tamil,Pizza,7.5
+Horror,Tamil,Kanchana,7.0 
+Horror,Tamil,Muni,6.9
+Horror,Tamil,Aval,6.8
+Horror,Tamil,Demonte Colony,6.8
+Horror,Malayalam,Manichitrathazhu,8.1
+Horror,Malayalam,Kariyilakkattu Pole,7.3
+Horror,Malayalam,Lilli,6.5
+Horror,Malayalam,Pretham,6.7
+Horror,Malayalam,Ezra,7.2
+Horror,Kannada,6-5=2,6.9
+Horror,Kannada,RangiTaranga,7.8
+Horror,Kannada,Karvva,6.7
+Horror,Kannada,Shishira,6.4
+Horror,Kannada,Bayalu Daari,7.0 
+Horror,English,A Quiet Place,7.5
+Horror,English,Insidious,6.8
+Horror,English,Get Out,7.7
+Horror,English,Hereditary,7.3
+Horror,English,The Comjurimg,7.5
+Fantasy,Telugu,Magadheera,8.1
+Fantasy,Telugu,Jagadeka Veerudu Athiloka Sundari,7.8
+Fantasy,Telugu,Anji,6.2
+Fantasy,Telugu,Arundhati,7.0 
+Fantasy,Telugu,Yamadonga,7.1
+Fantasy,Hindi,Baahubali: The Beginning,8.0 
+Fantasy,Hindi,Paheli,6.9
+Fantasy,Hindi,Tumbbad,8.0 
+Fantasy,Hindi,Jajantaram Mamantaram,6.3
+Fantasy,Hindi,Brahmastra,6.6
+Fantasy,Tamil,Aayirathil Oruvan,8.1
+Fantasy,Tamil,Puli,4.7
+Fantasy,Tamil,Maya,7.5
+Fantasy,Tamil,Arundhati(dubbed),7.0 
+Fantasy,Tamil,Iruvakku Aayiram Kangal,7.2
+Fantasy,Malayalam,Sanchari,6.5
+Fantasy,Malayalam,Maanikya,6.9
+Fantasy,Malayalam,My Dear Kuttichathan,7.7
+Fantasy,Malayalam,Odiyan,6.1
+Fantasy,Malayalam,Ezra,7.2
+Fantasy,Kannada,Nagavalli,6.8
+Fantasy,Kannada,Vikrant Rona,7.0 
+Fantasy,Kannada,Apthamitra,7.6
+Fantasy,Kannada,Katari Veera Surasundarangi,6.2
+Fantasy,Kannada,Jai Maruthi 800,6.4
+Fantasy,English,Narnia,6.9
+Fantasy,English,Pan's Labyrinth,8.2
+Fantasy,English,The Hobbit,7.8
+Fantasy,English,The Lord of the Rings,8.8
+Fantasy,English,Harry Potter and the Sorcerer's Stone,7.6
+Drama,Telugu,Mahanati,8.5
+Drama,Telugu,Jersey,8.6
+Drama,Telugu,Sammohanam,7.6
+Drama,Telugu,Seethamma Vakitlo Sirimalle Chettu,7.4
+Drama,Telugu,Leader,7.8
+Drama,Hindi,Swades,8.2
+Drama,Hindi,Taare Zameen Par,8.4
+Drama,Hindi,Dangal,8.3
+Drama,Hindi,Piku,7.6
+Drama,Hindi,Udaan,8.1
+Drama,Tamil,Peranbu,8.6
+Drama,Tamil,Vada Chennai,8.5
+Drama,Tamil,Karnan,8.2
+Drama,Tamil,Pariyerum Perumal,8.6
+Drama,Tamil,Asuran,8.5
+Drama,Malayalam,Kumbalangi Nights,8.6
+Drama,Malayalam,The Great India Kitchen,8.4
+Drama,Malayalam,Ustad Hotel,8.3
+Drama,Malayalam,Drishyam 2,8.5
+Drama,Malayalam,Sudani from Nigeria,8.2
+Drama,Kannada,Sarkari Hi. Pra. Shaale,7.5
+Drama,Kannada,Bhinna,6.9
+Drama,Kannada,Nathicharami,7.5
+Drama,Kannada,Kantara,8.5
+Drama,Kannada,Thithi,8.2
+Drama,English,The Shawshank Redemption,9.3
+Drama,English,Forrest Gump,8.8
+Drama,English,The Pursuit of Happyness,8.0 
+Drama,English,12 Years a Slave,8.1
+Drama,English,A Beautiful Mind,8.2
+Animation,Telugu,Chhota Bheem and the Curse of Damyaan,6.0 
+Animation,Telugu,Mighty Raju Rio Calling,5.8
+Animation,Telugu,Hanuman vs Mahiravana,6.3
+Animation,Telugu,Krishna Aur Kans,6.5
+Animation,Telugu,Bala Bharatam,7.0 
+Animation,Hindi,Hanuman vs Mahiravana,7.6
+Animation,Hindi,Motu Patlu: King of Kings,5.9
+Animation,Hindi,Roadside Romeo,5.2
+Animation,Hindi,Chaar Sahibzaade,8.0 
+Animation,Hindi,Ramayana: The Legend of Prince Rama,9.2
+Animation,Tamil,Roll No 21,6.5
+Animation,Tamil,Vegam,6.1
+Animation,Tamil,My Friend Ganesha,6.0 
+Animation,Tamil,Chhota Bheem: Journey of Petra,6.2
+Animation,Tamil,Hanuman(dubbed),7.6
+Animation,Malayalam,Magic Magic 3D,5.9
+Animation,Malayalam,CID Moosa 007,6.2
+Animation,Malayalam,Swami Ayyappan,7.1
+Animation,Malayalam,The Story of Buddha,6.8
+Animation,Malayalam,Gajapokkiri,6.0 
+Animation,Kannada,Tales of Akbar-Birbal,6.2
+Animation,Kannada,Bal Ganesh,6.1
+Animation,Kannada,Shiva Cartoon,6.3
+Animation,Kannada,The Legend of Buddha,6.8
+Animation,Kannada,Chhota Bheem: Himalayan Adventure,6.0 
+Animation,English,Toy Story,8.3
+Animation,English,Up,8.2
+Animation,English,Finding Nemo,8.1
+Animation,English,Zootopia,8.0 
+Animation,English,Coco,8.4

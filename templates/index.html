@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Movie Recommendation Chatbot</title>
+
+<style>
+
+body{
+font-family:Arial;
+background:linear-gradient(135deg,#667eea,#764ba2);
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+}
+
+#chatbox{
+width:500px;
+background:white;
+padding:20px;
+border-radius:12px;
+box-shadow:0 10px 30px rgba(0,0,0,0.3);
+}
+
+#messages{
+height:350px;
+overflow-y:auto;
+border:1px solid #eee;
+padding:10px;
+margin-bottom:10px;
+background:#fafafa;
+border-radius:8px;
+}
+
+.user{
+text-align:right;
+background:#4CAF50;
+color:white;
+padding:8px;
+border-radius:10px;
+margin:5px;
+display:inline-block;
+float:right;
+clear:both;
+}
+
+.bot{
+text-align:left;
+background:#2196F3;
+color:white;
+padding:8px;
+border-radius:10px;
+margin:5px;
+display:inline-block;
+float:left;
+clear:both;
+}
+
+#inputArea{
+display:flex;
+gap:5px;
+}
+
+#input{
+flex:1;
+padding:8px;
+border-radius:5px;
+border:1px solid gray;
+}
+
+button{
+padding:8px 12px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+#send{
+background:#4CAF50;
+color:white;
+}
+
+#clear{
+background:#ff9800;
+color:white;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="chatbox">
+
+<h2 style="text-align:center;">🎬 Movie Chatbot</h2>
+
+<div id="messages"></div>
+
+<div id="inputArea">
+
+<input id="input" placeholder="Type your message...">
+
+<button id="send" onclick="sendMessage()">Send</button>
+
+<button id="clear" onclick="clearChat()">Clear Chat</button>
+
+</div>
+
+</div>
+
+<script>
+
+function sendMessage(){
+
+let input=document.getElementById("input")
+let msg=input.value.trim()
+
+if(msg==="") return
+
+let messages=document.getElementById("messages")
+
+messages.innerHTML+=`<div class="user">${msg}</div>`
+
+fetch("/chat",{
+method:"POST",
+headers:{
+"Content-Type":"application/json"
+},
+body:JSON.stringify({message:msg})
+})
+
+.then(res=>res.json())
+
+.then(data=>{
+
+if(data.type==="list"){
+
+let list="<ul>"
+
+data.reply.forEach(movie=>{
+list+=`<li>${movie}</li>`
+})
+
+list+="</ul>"
+
+messages.innerHTML+=`<div class="bot">${list}</div>`
+
+}
+
+else{
+
+messages.innerHTML+=`<div class="bot">${data.reply}</div>`
+
+}
+
+messages.scrollTop=messages.scrollHeight
+
+})
+
+input.value=""
+
+}
+
+function clearChat(){
+
+document.getElementById("messages").innerHTML=""
+
+}
+
+</script>
+
+</body>
+
+</html>
